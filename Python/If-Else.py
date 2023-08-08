@@ -10,6 +10,7 @@ import sys
 
 if __name__ == '__main__':
     n = int(input().strip())
+# n % 2 = 0 used to determine if integer 'n' is even
 if (n % 2) != 0:
     print("Weird")
 else:
