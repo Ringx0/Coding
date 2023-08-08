@@ -1,0 +1,6 @@
+if __name__ == '__main__':
+    a = int(input())
+    b = int(input())
+    
+    print(int(a/b)) #Without decimal point
+    print(float(a/b)) #With decimal point
