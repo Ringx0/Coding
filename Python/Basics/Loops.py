@@ -1,5 +1,4 @@
-if __name__ == '__main__':
-    n = int(input())  # Read the integer 'n' from the user input and convert it to an integer.
+n = int(input())  # Read the integer 'n' from the user input and convert it to an integer.
 
 # Check if 'n' is within the range [1, 20]
 if 1 <= n <= 20:
